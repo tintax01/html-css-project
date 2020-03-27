@@ -10,7 +10,7 @@ body {
 .sidebar {
 	margin: 0;
 	padding: 10;
-	width: 100px;
+	width: 400px;
 	background-color: red;
 	position: relative;
 	height: 500%;
@@ -31,7 +31,7 @@ body {
 /*media query responsive sidebar screen sizes*/
 @media screen and (min-width: 1200px) {
 	.sidebar {
-		width: 100px;
+		width: 500px;
 		background-color: red;
 		position: relative;
 		height: 100%;
@@ -85,4 +85,9 @@ img {
 
 .topic:first-child {
 	background-color: rgb(197, 59, 105);
+}
+
+.mainD {
+	display: flex;
+	/*flex-wrap: wrap;*/
 }
