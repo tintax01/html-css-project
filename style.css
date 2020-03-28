@@ -10,7 +10,7 @@ body {
 .sidebar {
 	margin-right: 10px;
 	padding: 10;
-	width: 400px;
+	width: 1000px;
 	background-color: red;
 	position: relative;
 	height: 500%;
@@ -20,7 +20,7 @@ body {
 .sidebar a {
 	display: block;
 	color: blue;
-	padding: 16px;
+	padding: 25px;
 }
 
 .sidebar a.active {
@@ -49,8 +49,8 @@ header {
 	text-align: center;
 	background: #01fa37;
 	color: rgb(8, 69, 235);
-	font-size: 15px;
-	max-height: 150px;
+	font-size: 20px;
+	max-height: 200px;
 }
 /*image tag*/
 img {
