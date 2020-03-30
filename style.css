@@ -8,13 +8,14 @@ body {
 /*sidebar menue*/
 
 .sidebar {
-	margin-right: 10px;
+	margin-right: 50px;
 	padding: 10;
 	width: 1000px;
-	background-color: red;
+	background-color: #fde400;
 	position: relative;
 	height: 500%;
 	overflow: auto;
+	border-radius: 1rem;
 }
 
 .sidebar a {
@@ -24,8 +25,9 @@ body {
 }
 
 .sidebar a.active {
-	background-color: #4caf50;
+	background-color: #06c50d;
 	color: rgb(0, 17, 255);
+	border-radius: 1rem;
 }
 
 /*media query responsive sidebar screen sizes*/
@@ -42,7 +44,7 @@ body {
 /*header tag*/
 header {
 	margin: 0;
-	padding-top: 20px;
+	padding-top: 50px;
 	padding-bottom: 1px;
 	padding-left: 20px;
 	padding-right: 1000px;
