@@ -1,23 +1,10 @@
 /** @format */
 
 
-
-
-
-
-/* 
-.sidebar {
-	padding: 1;
-	background-color:green;
-	border-radius:10px;
-} */
-
-/* .sidebar a {
-	display: block;
-	color: rgb(12, 11, 11);
+/*  body tag */
+body{
+	padding: 0;
+	margin: 0;
+	height: 1%;
+	background-color: rgb(71, 63, 99);
 }
-
-.sidebar a.active {
-	background-color: #ec10e1;
-	border-radius: 0.1rem;
-}  */
