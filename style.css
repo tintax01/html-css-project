@@ -1,10 +1,9 @@
 /** @format */
 
-
 /*  body tag */
-body{
+body {
 	padding: 0;
 	margin: 0;
-	height: 1%;
-	background-color: rgb(71, 63, 99);
+	height: 5%;
+	background-color: rgb(232, 235, 211);
 }
